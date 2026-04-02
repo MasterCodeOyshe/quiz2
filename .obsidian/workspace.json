@@ -1,0 +1,363 @@
+{
+  "main": {
+    "id": "b7c97189e87a3a8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c715d59f3ad9f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9532e5131ac3ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speaking test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speaking test"
+            }
+          },
+          {
+            "id": "4459edfd693ae556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Words"
+            }
+          },
+          {
+            "id": "ad534a47cb2dc9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Words"
+            }
+          },
+          {
+            "id": "0c9b09dddbe5e253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat 52-53.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chat 52-53"
+            }
+          },
+          {
+            "id": "f6810a9ba6dc86ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat 48-49.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chat 48-49"
+            }
+          },
+          {
+            "id": "9decfdd77c5ec313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat 44-45.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chat 44-45"
+            }
+          },
+          {
+            "id": "16b151b5a3eb1d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat 60-61.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chat 60-61"
+            }
+          },
+          {
+            "id": "70aabc86e97741fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speaking test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speaking test"
+            }
+          },
+          {
+            "id": "46500b7a53c6cc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sentences type practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sentences type practice"
+            }
+          },
+          {
+            "id": "2bb08575c9e86ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "question sentences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "question sentences"
+            }
+          },
+          {
+            "id": "7e434b3b903d357e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "negative sentences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "negative sentences"
+            }
+          },
+          {
+            "id": "ecdaaea2d02f4c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Words"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63d5ac6d815c59d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4bc41d13d1eb30a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c634edab82db160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59e5365315538146",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0237ba75b478cfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8067cad441c9e2dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3bf720b4b5752a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13afe55013f7887b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Words.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Words"
+            }
+          },
+          {
+            "id": "1fa724c715ddc204",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Words.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Words"
+            }
+          },
+          {
+            "id": "32fe2c9648d95a13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d390e0e756e50562",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "260eaa1f61d1eda4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Words.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Words"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ecdaaea2d02f4c8a",
+  "lastOpenFiles": [
+    "comparism.md",
+    "negative sentences.md",
+    "question sentences.md",
+    "sentences type practice.md",
+    "Speaking test.md",
+    "Chat 57-56.md",
+    "Words.md",
+    "Pasted image 20260331052512.png",
+    "Chat 60-61.md",
+    "Pasted image 20260331052238.png",
+    "Chat 44-45.md",
+    "Pasted image 20260331051831.png",
+    "Chat 48-49.md",
+    "Pasted image 20260331051436.png",
+    "Chat 52-53.md",
+    "Pasted image 20260331050750.png",
+    "Chat 64-65.md",
+    "Pasted image 20260331050240.png",
+    "Chinese Quiz 2"
+  ]
+}
