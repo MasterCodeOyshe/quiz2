@@ -59,14 +59,16 @@ _Required points:
 3. Who organized it  
 4. What you/others did on that Speech Competition  
 Required grammar use: Use frequency words and pivot sentences.  
+
+
+| **Chinese Characters** | **Pinyin**                                             | **English Translation**                                              |
+| ---------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- |
+| **上个星期我们学校举行了演讲比赛。**   | Shàng ge xīngqī wǒmen xuéxiào jǔxíngle yǎnjiǎng bǐsài. | Last week our school held a speech competition.                      |
+| **这个比赛一年举行一次。**        | Zhè ge bǐsài yì nián jǔxíng yí cì.                     | This competition is held once a year.                                |
+| **老师让我们参加这次比赛。**       | Lǎoshī ràng wǒmen cānjiā zhè cì bǐsài.                 | The teacher made us participate in this competition.                 |
+| **为了准备比赛，我把演讲稿读了三遍。**  | Wèile zhǔnbèi bǐsài, wǒ bǎ yǎnjiǎnggǎo dúle sān biàn.  | To prepare for the competition, I read the speech draft three times. |
+| **老师请我上台演讲。**          | Lǎoshī qǐng wǒ shàngtái yǎnjiǎng.                      | The teacher invited me to go on stage to give a speech.              |
   
-| **Pinyin**                                                        | **English Translation**                                                                             |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Shàng ge xīngqīwǔ, xuéxiào jǔbànle yī chǎng Hànyǔ yǎnjiǎng bǐsài. | Last Friday, the school held a Chinese speech competition.                                          |
-| Zhège bǐsài měinián jǔbàn yī **cì**.                              | This competition is held once (**cì**) every year.                                                  |
-| Lǎoshī **ràng** wǒmen cānjiā zhè cì bǐsài.                        | The teacher **let/made (ràng)** us participate in this competition.                                 |
-| Wǒ bǎ yǎnjiǎng gǎo dúle sān **biàn**, zhǔnbèi de hěn rènzhēn.     | I read the speech draft three **times (biàn)**; I prepared very seriously.                          |
-| Bǐsài yǐhòu, lǎoshī **qǐng** dàjiā qù fàndiàn chī Zhōngguó cài.   | After the competition, the teacher **invited (qǐng)** everyone to a restaurant to eat Chinese food. |
 
 **Prompt 5: Comparing Cities**
 
@@ -77,11 +79,12 @@ _Required points:
 3. Compare another aspect  
 Required grammar use: Use comparison structures.
 
-| **Pinyin**                                                    | **English Translation**                                                        |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Wǒ qùguo liǎng ge chéngshì: Běijīng hé Shànghǎi.              | I have been to two cities: Beijing and Shanghai.                               |
-| Dì yī shì tiānqì. Shànghǎi **bǐ** Běijīng nuǎnhuo yīdiǎnr.    | First is the weather. Shanghai is a little warmer **than** Beijing.            |
-| Kěshì, Běijīng de dōngtiān **méiyǒu** Shànghǎi shūfu.         | But, Beijing's winter is **not as** comfortable **as** Shanghai's.             |
-| Dì èr shì huánjìng. Shànghǎi de fángzi **bǐ** Běijīng de gāo. | Second is the environment. Shanghai's buildings are taller **than** Beijing's. |
-| Dànshì, Shànghǎi **méiyǒu** "Lǎo Běijīng" ānjìng.             | However, Shanghai is **not as** quiet **as** "Old Beijing."                    |
-| Zhè liǎng ge chéngshì chàbuduō, wǒ dōu xǐhuān!                | These two cities are almost the same (in greatness); I like both!              |
+| **Chinese Characters**          | **Pinyin**                                                                                 | **English Translation**                                                                              |
+| ------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+|                                 | Wǒ qùguo liǎng ge chéngshì: Běijīng hé Shànghǎi.                                           | I have been to two cities: Beijing and Shanghai.                                                     |
+| **北京和上海都很有名。**                  | Běijīng hé Shànghǎi dōu hěn yǒumíng.                                                       | Beijing and Shanghai are both very famous.                                                           |
+| **两个城市的天气差不多，不过，北京的冬天比上海冷一点儿。** | Liǎng ge chéngshì de tiānqì chàbuduō, búguò, Běijīng de dōngtiān bǐ Shànghǎi lěng yìdiǎnr. | The weather of the two cities is similar, but winter in Beijing is a little colder than in Shanghai. |
+| **上海没有北京安静，北京没有上海宽敞。**          | Shànghǎi méiyǒu Běijīng ānjìng, Běijīng méiyǒu Shànghǎi kuānchang.                         | Shanghai is not as quiet as Beijing, and Beijing is not as spacious as Shanghai.                     |
+| **我觉得北京的菜比上海的好吃。**              | Wǒ juéde Běijīng de cài bǐ Shànghǎi de hǎochī.                                             | I think Beijing's food is more delicious than Shanghai's.                                            |
+
+
