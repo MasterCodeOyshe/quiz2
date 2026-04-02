@@ -9,13 +9,15 @@ _Required points:
 
 Answer:
 
-| **Pinyin**                                                                              | **English Translation**                                                                 |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Nǐ hǎo! Jīntiān wǒ zài jīchǎng bāng nín jiǎnchá xínglǐ.                                 | Hello! Today I am helping you check your luggage at the airport.                        |
-| Xiānsheng, qǐng **bǎ** nín de xínglǐxiāng dǎkāi.                                        | Sir, please **open** your suitcase.                                                     |
-| Wǒ kàndào lǐmiàn yǒu hěnduō dōngxī. Yǒu yī bù bǐjìběn diànnǎo, hái yǒu yī bǎ zhǐjiadāo. | I see many things inside. There is a laptop, and there is also a pair of nail clippers. |
-| Zhǐjiadāo bù néng dài. Qǐng nǐ **bǎ** zhǐjiadāo ná chūlái.                              | Nail clippers cannot be carried. Please **take out** the nail clippers.                 |
-| Xièxiè nín de pèihé!                                                                    | Thank you for your cooperation!                                                         |
+| **Chinese Characters** | **Pinyin**                                                    | **English Translation**                            |
+| ---------------------- | ------------------------------------------------------------- | -------------------------------------------------- |
+| **您好！**                | Nín hǎo!                                                      | Hello!                                             |
+| **先生，请把行李箱放在这儿。**      | Xiānsheng, qǐng bǎ xínglixiāng fàng zài zhèr.                 | Sir, please put the suitcase here.                 |
+| **请把行李箱打开。**           | Qǐng bǎ xínglixiāng dǎkāi.                                    | Please open the suitcase.                          |
+| **你的箱子里有很多衣服和书。**      | Nǐ de xínglixiāng lǐ yǒu hěnduō yīfu hé shū, ye you zhǐjiadāo | There are many clothes and books in your suitcase. |
+| **对不起，指甲刀不能带。**        | zhǐjiadāo bù néng dài.                                        | nail clippers are not allowed.                     |
+| **请把指甲刀拿出来。**          | Qǐng bǎ zhǐjiadāo ná chūlái.                                  | Please take the nail clippers out.                 |
+
 
 **Prompt 2: Predicting a Game Result**
 1. What game do you watch  
@@ -23,15 +25,15 @@ Answer:
 3. Why  
 Required grammar use: Use 会 to express possibility.
 
-| **Pinyin**                                                                                | **English Translation**                                                                                       |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Jīntiān wǎnshang wǒ zài jiā kàn yī chǎng zúqiú bǐsài.**                                 | Tonight I am watching a football match at home.                                                               |
-| **Shì Yìdàlì duì hé Xībānyá duì de bǐsài. Jīntiān de bǐsài zhēn jīliè, tài jǐnzhāng le!** | It is the match between the Italy team and the Spain team. Today's match is really intense and very exciting! |
-| Wǒ rènwéi Xībānyá duì huì yíng.                                                           | I think Spain team **will** win.                                                                              |
-| **Yīnwèi Xībānyá duì shèmén hǎo, suǒyǐ wǒ juéde tāmen yídìng huì yíng!**                  | the Spain team's shooting is good, so I feel they definitely **will** win!                                    |
-| **wǒ bàba rènwéi Yìdàlì duì huì yíng.**                                                   | my dad thinks the Italy team **will** win.                                                                    |
-| **Yīnwèi Yìdàlì duì fángshǒu hǎo!**                                                       | Because the Italy team has good defense!                                                                      |
-| **Wǒmen yīqǐ kàn ba!**                                                                    | Let's watch together!                                                                                         |
+| **Chinese Characters** | **Pinyin**                                      | **English Translation**                                                |
+| ---------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| **今天的比赛真激烈！**          | Jīntiān de bǐsài zhēn jīliè!                    | Today's match is so exciting!                                          |
+| **我在看西班牙队和意大利队的比赛。**   | Wǒ zài kàn Xībānyá duì hé Yìdàlì duì de bǐsài.  | I am watching the match between Spain and Italy.                       |
+| **我觉得西班牙队会赢。**         | Wǒ juéde Xībānyá duì huì yíng.                  | I think the Spanish team will win.                                     |
+| **因为西班牙队射门好，所以一定会赢！**  | Yīnwèi Xībānyá duì shèmén hǎo, yídìng huì yíng! | Because the Spanish team is good at shooting, they certainly will win! |
+| **我爸爸认为意大利队会赢。**       | Wǒ bàba rènwéi Yìdàlì duì huì yíng.             | My father thinks the Italian team will win.                            |
+| **因为意大利队防守好，所以一定不会输！** | Yīnwèi Yìdàlì duì fángshǒu hǎo                  | Because the Italian team is good at defense,                           |
+
 **Prompt 3: Learning Foreign Languages**
 1. How many languages do you speak
 2. When you started  
