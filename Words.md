@@ -1,17 +1,6 @@
-| PDF Source | Word (Chinese) | Pinyin    | English Translation                                  |
-| :--------- | :------------- | :-------- | :--------------------------------------------------- |
-| **PDF 47** | 教室             | jiàoshì   | classroom                                            |
-| **PDF 47** | 眼镜             | yǎnjìng   | glasses, spectacles                                  |
-| **PDF 47** | 啤酒             | píjiǔ     | beer                                                 |
-| **PDF 47** | 冰箱             | bīngxiāng | refrigerator, fridge, icebox                         |
-| **PDF 47** | 车库             | chēkù     | garage                                               |
-| **PDF 47** | 挂              | guà       | to hang                                              |
-| **PDF 47** | 花园             | huāyuán   | garden                                               |
-| **PDF 47** | 关              | guān      | to close                                             |
-| **PDF 47** | 帮忙             | bāngmáng  | to help                                              |
-| **PDF 47** | 窗户             | chuānghu  | window                                               |
-| **PDF 47** | 菜单             | càidān    | menu                                                 |
+
 | **PDF 51** | 接              | jiē       | to meet, to welcome                                  |
+| :--------- | :------------- | :-------- | :--------------------------------------------------- |
 | **PDF 51** | 见到             | jiàndào   | to see, to meet                                      |
 | **PDF 51** | 次              | cì        | time, occasion                                       |
 | **PDF 51** | 举行             | jǔxíng    | to hold (a meeting, ceremony, etc.)                  |
