@@ -41,14 +41,14 @@ Required grammar use: Use 会 to express possibility.
 4. How much longer do you learn Chinese
 5. Required grammar use: Use 了 and 跟.
 
+| **Chinese Characters**  | **Pinyin**                                                         | **English Translation**                                            |
+| ----------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| **我会说两门外语。**            | Wǒ huì shuō san mén wàiyǔ.                                         | I can speak two foreign languages.                                 |
+| **我学了两年汉语了。**           | Wǒ xuéle liǎng nián Hànyǔ le.                                      | I have been learning Chinese for two years.                        |
+| **我每天跟中国朋友聊两个小时天儿。**    | Wǒ měitiān gēn Zhōngguó péngyou liáo liǎng ge xiǎoshí tiānr.       | Every day I chat with Chinese friends for two hours.               |
+| **我刚才就在网上跟老师学习了一个半小时。** | Wǒ gāngcái jiù zài wǎngshang gēn lǎoshī xuéxíle yí ge bàn xiǎoshí. | Just now, I studied with my teacher online for an hour and a half. |
+| **我还要再学一年汉语。**          | Wǒ hái yào zài xué yì nián Hànyǔ.                                  | I will learn Chinese for one more year.                            |
 
-| **Pinyin**                                                         | **English Translation**                                                             |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| Nǐ hǎo! Wǒ huì shuō liǎng zhǒng yǔyán: Yīngyǔ hé Hànyǔ.            | Hello! I can speak two languages: English and Chinese.                              |
-| Wǒ shì cóng liǎng nián qián kāishǐ xuéxí Hànyǔ de.                 | I started learning Chinese two years ago.                                           |
-| Měitiān, wǒ **gēn** Zhōngguó péngyǒu liáo liǎng ge xiǎoshí tiānr.  | Every day, I chat **with** Chinese friends for two hours.                           |
-| Wǒ xué **le** liǎng nián Hànyǔ **le**.                             | I have **already** been learning Chinese **for** two years (and am still learning). |
-| Wǒ dǎsuàn zài xué liǎng nián, yīnwèi wǒ xiǎng qù Zhōngguó gōngzuò. | I plan to study for two more years because I want to work in China.                 |
 
 **Prompt 4: Speech Competition**
 
