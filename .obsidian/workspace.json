@@ -237,16 +237,212 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat 66-67.md",
+                "file": "Chat 44-45.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chat 66-67"
+              "title": "Chat 44-45"
+            }
+          },
+          {
+            "id": "16f361252c20b47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 1"
+            }
+          },
+          {
+            "id": "7ff9276aa36de99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2"
+            }
+          },
+          {
+            "id": "6c5291de5c357ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 3"
+            }
+          },
+          {
+            "id": "5e2b51cea553255a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 4"
+            }
+          },
+          {
+            "id": "c035956fbc17bb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 5"
+            }
+          },
+          {
+            "id": "11f5012232f3ad59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 6"
+            }
+          },
+          {
+            "id": "031a5ccf270d4eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 7"
+            }
+          },
+          {
+            "id": "216c1756a00a5c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 8"
+            }
+          },
+          {
+            "id": "e5abf64ebab21af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 9"
+            }
+          },
+          {
+            "id": "619263a49dadeb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 10"
+            }
+          },
+          {
+            "id": "d026b3371a91ecb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 11"
+            }
+          },
+          {
+            "id": "4fbc9aafcf12c1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 12"
+            }
+          },
+          {
+            "id": "908c323ad77e5909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 13"
+            }
+          },
+          {
+            "id": "8b847653ac432505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 14"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -319,7 +515,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat 66-67.md",
+                "file": "Chat 48-49.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +525,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chat 66-67"
+              "title": "Backlinks for Chat 48-49"
             }
           },
           {
@@ -338,12 +534,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat 66-67.md",
+                "file": "Chat 48-49.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chat 66-67"
+              "title": "Outgoing links from Chat 48-49"
             }
           },
           {
@@ -381,13 +577,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat 66-67.md",
+                "file": "Chat 48-49.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chat 66-67"
+              "title": "Outline of Chat 48-49"
             }
           }
         ]
@@ -408,37 +604,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "4bf652f589ef68d7",
+  "active": "8b847653ac432505",
   "lastOpenFiles": [
-    "Pasted image 20260402113738.png",
-    "Pasted image 20260402113726.png",
-    "Chat 62-63.md",
-    "Pasted image 20260402113051.png",
-    "Pasted image 20260402113032.png",
-    "Chat 57-56.md",
-    "Chat 64-65.md",
-    "Chat 66-67.md",
-    "Chat 60-61.md",
-    "Chat 58-59.md",
-    "Chat 54-55.md",
-    "Speaking test.md",
-    "Chat 48-49.md",
+    "Pasted image 20260412090941.png",
+    "Pasted image 20260412090922.png",
+    "Lesson 12.md",
+    "Pasted image 20260412090815.png",
+    "Pasted image 20260412090802.png",
+    "Lesson 14.md",
+    "negative sentences.md",
+    "Lesson 13.md",
+    "Pasted image 20260412090529.png",
+    "Lesson 11.md",
+    "Pasted image 20260412090312.png",
+    "Lesson 10.md",
+    "Pasted image 20260412090022.png",
+    "Pasted image 20260412090008.png",
+    "Lesson 9.md",
+    "Pasted image 20260412085801.png",
+    "Lesson 8.md",
+    "Pasted image 20260412085550.png",
+    "Pasted image 20260412085538.png",
+    "Lesson 7.md",
+    "Lesson 6.md",
+    "Lesson 5.md",
+    "Lesson 4.md",
+    "Lesson 3.md",
+    "Lesson 2.md",
+    "Lesson 1.md",
     "Chat 44-45.md",
-    "Pasted image 20260402102805.png",
-    "Pasted image 20260402102749.png",
-    "Chat 52-53.md",
+    "Chat 54-55.md",
     "Chat 50-51.md",
-    "Pasted image 20260402092622.png",
-    "Pasted image 20260402092609.png",
-    "Words.md",
-    "Pasted image 20260402084236.png",
-    "Pasted image 20260402084219.png",
+    "Chat 48-49.md",
     "chat 46-47.md",
     "sentences type practice.md",
-    "Pasted image 20260402050930.png",
+    "Speaking test quiz2.md",
     "comparism.md",
-    "question sentences.md",
-    "negative sentences.md",
+    "Chat 66-67.md",
+    "Chat 62-63.md",
     "Chinese Quiz 2"
   ]
 }

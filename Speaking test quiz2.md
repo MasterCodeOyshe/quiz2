@@ -67,7 +67,7 @@ Required grammar use: Use frequency words and pivot sentences.
 | **这个比赛一年举行一次。**        | Zhè ge bǐsài yì nián jǔxíng yí cì.                     | This competition is held once a year.                                |
 | **老师让我们参加这次比赛。**       | Lǎoshī ràng wǒmen cānjiā zhè cì bǐsài.                 | The teacher made us participate in this competition.                 |
 | **为了准备比赛，我把演讲稿读了三遍。**  | Wèile zhǔnbèi bǐsài, wǒ bǎ yǎnjiǎnggǎo dúle sān biàn.  | To prepare for the competition, I read the speech draft three times. |
-| **老师请我上台演讲。**          | Lǎoshī qǐng wǒ shàngtái yǎnjiǎng.                      | The teacher invited me to go on stage to give a speech.              |
+| **老师请我上台演讲。**          | Lǎoshī qǐng wǒ shànglai yǎnjiǎng.                      | The teacher invited me to go on stage to give a speech.              |
   
 
 **Prompt 5: Comparing Cities**
