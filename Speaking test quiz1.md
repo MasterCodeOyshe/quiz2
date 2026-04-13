@@ -48,3 +48,22 @@ Required grammar use: Use “要”and _不是__...__吗？_ .
 | _(Jīntiān wǒ **qǐ de zhēn zǎo**! Yīnwèi wǒ yǒu kǎoshì.)_ | I got up really early today! Because I have an exam. |
 | _(Báitiān wǒ xuéxí.)_                                    | During the day I study.                              |
 | _(Wǒ juédé wǒ hànyǔ **xué de búcuò**.)_                  | I think I am learning Chinese quite well.            |
+**Prompt 4: My Special Skills**  _(Required grammar:_ _会 /_ _还)_
+
+|   |   |
+|---|---|
+|Required points|Notes (optional)|
+|1. Two things you can do (skills or abilities)||
+|2. One more thing you can do (use “还” to add information)||
+|3. One skill you want to learn in the future||
+|4. Why you want to learn it (one simple reason)||
+
+Required grammar use: Use “会” and “还”.
+
+| **Pinyin**                                             | **English Translation**                               |
+| ------------------------------------------------------ | ----------------------------------------------------- |
+| Wǒ **huì** tán gāngqín, yě **huì** huàhuà.             | I **can** play the piano, and I **can** also draw.    |
+| Wǒ **hái** huì shuō yìdiǎnr Hànyǔ.                     | I **also** can speak a little Chinese.                |
+| Jiānglái, wǒ xiǎng xué zuò Zhōngguócài.                | In the future, I want to learn to make Chinese food.  |
+| Yīnwèi wǒ juéde Zhōngguócài hěn hǎochī.                | Because I think Chinese food is very delicious.       |
+
