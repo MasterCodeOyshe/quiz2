@@ -1,17 +1,17 @@
-|Word (Characters)|Pinyin|English Translation|
-|:--|:--|:--|
-|打折|dǎ zhé|to give a discount|
-|换|huàn|to convert|
-|人民币|rénmínbì|RMB, Chinese currency|
-|人民|rénmín|people|
-|欧元|ōuyuán|euro|
-|停|tíng|to stop, to park|
-|吸烟|xī yān|to smoke (cigarettes)|
-|拍照|pāi zhào|to take a photo|
-|拍|pāi|to take (a photo)|
-|参观|cānguān|to visit, to look around|
-|请假|qǐng jià|to ask for leave|
-|给|gěi|(used to introduce the recipient of an action) to|
+| Word (Characters) | Pinyin   | English Translation                               |
+| :---------------- | :------- | :------------------------------------------------ |
+| 打折                | dǎ zhé   | to give a discount                                |
+| 换                 | huàn     | to convert                                        |
+| 人民币               | rénmínbì | RMB, Chinese currency                             |
+| 人民                | rénmín   | people                                            |
+| 欧元                | ōuyuán   | euro                                              |
+| 停                 | tíng     | to stop, to park                                  |
+| 吸烟                | xī yān   | to smoke (cigarettes)                             |
+| 拍照                | pāi zhào | to take a photo                                   |
+| 拍                 | pāi      | to take (a photo)                                 |
+| 参观                | cānguān  | to visit, to look around                          |
+| 请假                | qǐng jià | to ask for leave                                  |
+| 给                 | gěi      | (used to introduce the recipient of an action) to |
 ![[Pasted image 20260412090008.png]]
 ![[Pasted image 20260412090022.png]]
 
