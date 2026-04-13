@@ -60,10 +60,10 @@ Required grammar use: Use “要”and _不是__...__吗？_ .
 
 Required grammar use: Use “会” and “还”.
 
-| **Pinyin**                                             | **English Translation**                               |
-| ------------------------------------------------------ | ----------------------------------------------------- |
-| Wǒ **huì** tán gāngqín, yě **huì** huàhuà.             | I **can** play the piano, and I **can** also draw.    |
-| Wǒ **hái** huì shuō yìdiǎnr Hànyǔ.                     | I **also** can speak a little Chinese.                |
-| Jiānglái, wǒ xiǎng xué zuò Zhōngguócài.                | In the future, I want to learn to make Chinese food.  |
-| Yīnwèi wǒ juéde Zhōngguócài hěn hǎochī.                | Because I think Chinese food is very delicious.       |
+| **Pinyin**                                                                         | **English Translation**                              |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Wǒ **huì** tán gāngqín, yě **huì** huàhuà.<br>wo hui ti zuqiu, ye hui la xiaotiqin | I **can** play the piano, and I **can** also draw.   |
+| Wǒ **hái** huì shuō yìdiǎnr Hànyǔ.<br>wo hai hui da lanqiu                         | I **also** can speak a little Chinese.               |
+| Jiānglái, wǒ yao xué zuò Zhōngguócài.                                              | In the future, I want to learn to make Chinese food. |
+| Yīnwèi wǒ juéde Zhōngguócài hěn hǎochī.                                            | Because I think Chinese food is very delicious.      |
 
