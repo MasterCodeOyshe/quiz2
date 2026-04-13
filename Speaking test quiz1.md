@@ -32,4 +32,19 @@ Required grammar use: Use “要”and _不是__...__吗？_ .
 | Wǒ qù yóuyǒngchí yóuyǒng **le**.                        | I went swimming in the swimming pool.    |
 | Wǒ **yào** dìng yí liàng chē                            | I wanted to book a taxi                  |
 | Wǒ wèn le wǒ de fángjiān hào, yīnwèi wǒ wàngle.         | I asked my room number because I forgot. |
+**Prompt 3: My Daily Routine**  _(Required grammar: Verb +_ _得 + adjective)_
 
+|   |   |
+|---|---|
+|Required points|Notes (optional)|
+|1. What time you usually get up||
+|2. Whether you got up early or late today||
+|3. What you do during the day (study/work)||
+|4. How your Chinese learning is going||
+
+| **Chinese Script (Character + Pinyin)**                  | **English Translation**                              |
+| -------------------------------------------------------- | ---------------------------------------------------- |
+| _(Wǒ tōngcháng zǎoshang liù diǎn qǐchuáng.)_             | I usually get up at 6:00 AM.                         |
+| _(Jīntiān wǒ **qǐ de zhēn zǎo**! Yīnwèi wǒ yǒu kǎoshì.)_ | I got up really early today! Because I have an exam. |
+| _(Báitiān wǒ xuéxí.)_                                    | During the day I study.                              |
+| _(Wǒ juédé wǒ hànyǔ **xué de búcuò**.)_                  | I think I am learning Chinese quite well.            |
