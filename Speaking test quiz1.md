@@ -8,8 +8,8 @@
 |3. How you went there (plane/train, etc.)||
 |4. Who you went with||
 
-| **English Translation**                               | **🔤 Pinyin (Pronunciation)**                                 |
-| ----------------------------------------------------- | ------------------------------------------------------------- |
-| It **was on July 12th** that I went to spain.         | Wǒ **shì yīyuè shí'èr hào** qù Xībānyá de.                    |
-| I went **together with** my boy/girlfriend            | Wǒ **shì gēn** wo de nanpengyou/nupengyou **yìqǐ** qù **de**. |
-| We went **by plane**, because taking a plane is fast. | Wǒmen **shì** zuò fēijī qù **de**, yīnwèi zuò fēijī kuài.     |
+| **English Translation**                               | **🔤 Pinyin (Pronunciation)**                             |
+| ----------------------------------------------------- | --------------------------------------------------------- |
+| It **was on July 12th** that I went to spain.         | Wǒ **shì yīyuè shí'èr hào** qù Xībānyá de.                |
+| I went **together with** my boy/girlfriend            | Wǒ **shì gēn** nanpengyou/nupengyou **yìqǐ** qù **de**.   |
+| We went **by plane**, because taking a plane is fast. | Wǒmen **shì** zuò fēijī qù **de**, yīnwèi zuò fēijī kuài. |

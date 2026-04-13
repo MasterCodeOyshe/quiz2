@@ -1,18 +1,18 @@
-|Word|Pinyin|English Translation|
-|:--|:--|:--|
-|买单|mǎidān|to pay a bill, to pay for a meal|
-|能|néng|can, may|
-|方便|fāngbiàn|to go to the restroom|
-|一下|yíxià|used after a verb, indicating an act or attempt|
-|这里|zhèlǐ|here|
-|洗手间|xǐshǒujiān|restroom, toilet|
-|意思|yìsi|meaning, implication|
-|哦|ò|(used to indicate realization or understanding) oh, ah|
-|那|nà|then, in that case|
-|下|xià|next|
-|……的时候|……de shíhou|when|
-|告诉|gàosu|to tell, to inform|
-|拿|ná|to hold, to take, to fetch|
+| Word  | Pinyin      | English Translation                                    |
+| :---- | :---------- | :----------------------------------------------------- |
+| 买单    | mǎidān      | to pay a bill, to pay for a meal                       |
+| 能     | néng        | can, may                                               |
+| 方便    | fāngbiàn    | to go to the restroom                                  |
+| 一下    | yíxià       | used after a verb, indicating an act or attempt        |
+| 这里    | zhèlǐ       | here                                                   |
+| 洗手间   | xǐshǒujiān  | restroom, toilet                                       |
+| 意思    | yìsi        | meaning, implication                                   |
+| 哦     | ò           | (used to indicate realization or understanding) oh, ah |
+| 那     | nà          | then, in that case                                     |
+| 下     | xià         | next                                                   |
+| ……的时候 | ……de shíhou | when                                                   |
+| 告诉    | gàosu       | to tell, to inform                                     |
+| 拿     | ná          | to hold, to take, to fetch                             |
 
 | Speaker        | Pinyin                                                                              | English Translation                                                                               |
 | :------------- | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |

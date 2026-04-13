@@ -1,20 +1,20 @@
 
-|Word|Pinyin|Part of Speech|English Translation|
-|:--|:--|:--|:--|
-|要|yào|v.|to want|
-|餐厅|cāntīng|n.|dining hall, restaurant|
-|层|céng|m.|floor (of a building)|
-|复印|fùyìn|v.|to copy, to duplicate|
-|张|zhāng|m.|used for paper, paintings and tickets, etc.|
-|免费|miǎnfèi|v.|to be free of charge|
-|大堂|dàtáng|n.|lobby (of a hotel)|
-|小时|xiǎoshí|n.|hour|
-|订|dìng|v.|to book in advance|
-|辆|liàng|m.|used for vehicles|
-|住|zhù|v.|to live, to stay|
-|可是|kěshì|conj.|but, however|
-|忘|wàng|v.|to forget|
-|号|hào|n.|number|
+| Word | Pinyin  | English Translation                         |
+| :--- | :------ | :------------------------------------------ |
+| 要    | yào     | to want                                     |
+| 餐厅   | cāntīng | dining hall, restaurant                     |
+| 层    | céng    | floor (of a building)                       |
+| 复印   | fùyìn   | to copy, to duplicate                       |
+| 张    | zhāng   | used for paper, paintings and tickets, etc. |
+| 免费   | miǎnfèi | to be free of charge                        |
+| 大堂   | dàtáng  | lobby (of a hotel)                          |
+| 小时   | xiǎoshí | hour                                        |
+| 订    | dìng    | to book in advance                          |
+| 辆    | liàng   | used for vehicles                           |
+| 住    | zhù     | to live, to stay                            |
+| 可是   | kěshì   | but, however                                |
+| 忘    | wàng    | to forget                                   |
+| 号    | hào     | number                                      |
 
 |Speaker|Pinyin|English Translation|
 |:--|:--|:--|
