@@ -9,14 +9,12 @@ _Required points:
 
 Answer:
 
-| **Chinese Characters** | **Pinyin**                                                    | **English Translation**                            |
-| ---------------------- | ------------------------------------------------------------- | -------------------------------------------------- |
-| **您好！**                | Nín hǎo!                                                      | Hello!                                             |
-| **先生，请把行李箱放在这儿。**      | Xiānsheng, qǐng bǎ xínglixiāng fàng zài zhèr.                 | Sir, please put the suitcase here.                 |
-| **请把行李箱打开。**           | Qǐng bǎ xínglixiāng dǎkāi.                                    | Please open the suitcase.                          |
-| **你的箱子里有很多衣服和书。**      | Nǐ de xínglixiāng lǐ yǒu hěnduō yīfu hé shū, ye you zhǐjiadāo | There are many clothes and books in your suitcase. |
-| **对不起，指甲刀不能带。**        | zhǐjiadāo bù néng dài.                                        | nail clippers are not allowed.                     |
-| **请把指甲刀拿出来。**          | Qǐng bǎ zhǐjiadāo ná chūlái.                                  | Please take the nail clippers out.                 |
+| **Chinese Characters** | **Pinyin**                                       | **English Translation**                            |
+| ---------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| **请把行李箱打开。**           | Qǐng bǎ xínglixiāng dǎkāi.                       | Please open the suitcase.                          |
+| **你的箱子里有很多衣服和书。**      | xínglixiāng lǐ yǒu hěnduō yīfu, ye you zhǐjiadāo | There are many clothes and books in your suitcase. |
+| **对不起，指甲刀不能带。**        | zhǐjiadāo bù néng dài.                           | nail clippers are not allowed.                     |
+| **请把指甲刀拿出来。**          | Qǐng bǎ zhǐjiadāo ná chūlái.                     | Please take the nail clippers out.                 |
 
 
 **Prompt 2: Predicting a Game Result**
@@ -27,12 +25,10 @@ Required grammar use: Use 会 to express possibility.
 
 | **Chinese Characters** | **Pinyin**                                      | **English Translation**                                                |
 | ---------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
-| **今天的比赛真激烈！**          | Jīntiān de bǐsài zhēn jīliè!                    | Today's match is so exciting!                                          |
 | **我在看西班牙队和意大利队的比赛。**   | Wǒ zài kàn Xībānyá duì hé Yìdàlì duì de bǐsài.  | I am watching the match between Spain and Italy.                       |
 | **我觉得西班牙队会赢。**         | Wǒ juéde Xībānyá duì huì yíng.                  | I think the Spanish team will win.                                     |
 | **因为西班牙队射门好，所以一定会赢！**  | Yīnwèi Xībānyá duì shèmén hǎo, yídìng huì yíng! | Because the Spanish team is good at shooting, they certainly will win! |
-| **我爸爸认为意大利队会赢。**       | Wǒ bàba rènwéi Yìdàlì duì huì yíng.             | My father thinks the Italian team will win.                            |
-| **因为意大利队防守好，所以一定不会输！** | Yīnwèi Yìdàlì duì fángshǒu hǎo                  | Because the Italian team is good at defense,                           |
+
 
 **Prompt 3: Learning Foreign Languages**
 1. How many languages do you speak
@@ -41,13 +37,12 @@ Required grammar use: Use 会 to express possibility.
 4. How much longer do you learn Chinese
 5. Required grammar use: Use 了 and 跟.
 
-| **Chinese Characters**  | **Pinyin**                                                       | **English Translation**                                            |
-| ----------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **我会说两门外语。**            | Wǒ huì shuō san mén wàiyǔ.                                       | I can speak two foreign languages.                                 |
-| **我学了两年汉语了。**           | Wǒ xuéle liǎng nián Hànyǔ le.                                    | I have been learning Chinese for two years.                        |
-| **我每天跟中国朋友聊两个小时天儿。**    | Wǒ měitiān gēn Zhōngguó péngyou liáo liǎng ge xiǎoshí tiānr.     | Every day I chat with Chinese friends for two hours.               |
-| **我刚才就在网上跟老师学习了一个半小时。** | Wǒ gēn lǎoshī gāngcái jiù zài wǎngshang xuéle yí ge bàn xiǎoshí. | Just now, I studied with my teacher online for an hour and a half. |
-| **我还要再学一年汉语。**          | Wǒ hái yào zài xué yì nián Hànyǔ.                                | I will learn Chinese for one more year.                            |
+| **Chinese Characters** | **Pinyin**                                | **English Translation**                     |
+| ---------------------- | ----------------------------------------- | ------------------------------------------- |
+| **我会说两门外语。**           | Wǒ huì shuō san mén wàiyǔ.                | I can speak two foreign languages.          |
+| **我学了两年汉语了。**          | Wǒ xuéle liǎng nián Hànyǔ le.             | I have been learning Chinese for two years. |
+| **我每天跟中国朋友聊两个小时天儿。**   | Wǒ shì gēn wǒ de Zhōngguó péngyou xué de. | I learnned with my chinese friend           |
+| **我还要再学一年汉语。**         | Wǒ hái yào zài xué yì nián Hànyǔ.         | I will learn Chinese for one more year.     |
 
 
 **Prompt 4: Speech Competition**

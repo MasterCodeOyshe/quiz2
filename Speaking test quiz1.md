@@ -67,3 +67,32 @@ Required grammar use: Use “会” and “还”.
 | Jiānglái, wǒ yao xué zuò Zhōngguócài.                                              | In the future, I want to learn to make Chinese food. |
 | Yīnwèi wǒ juéde Zhōngguócài hěn hǎochī.                                            | Because I think Chinese food is very delicious.      |
 
+**Prompt 5: Rules and Ability**  _(Required grammar:_ _能 / Verb +_ _得/__不 + Verb)_
+
+|                                                                                  |                  |
+| -------------------------------------------------------------------------------- | ---------------- |
+| Required points                                                                  | Notes (optional) |
+| 1. Two things you are allowed to do, and two things you are not allowed to do    |                  |
+| 2. What you can/can’t do now in Chinese class (listening/speaking/reading, etc.) |                  |
+| 3. One thing you can do well, and one thing you still cannot do well             |                  |
+
+Required grammar use: Use “能” and Verb + 得/不 + Verb (e.g., 听得懂/听不懂，看得懂/看不懂，说得好/说不好).
+
+| **Prompt Requirement**                                                  | **Chinese Answer (Grammar in Bold)** | **Pinyin**                                                     | **English Translation**                                                                   |
+| ----------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **1. Two things allowed**<br><br>  <br><br>_(Using 能)_                  | 上课的时候，我**能**喝水，也**能**问问题。            | Shàngkè de shíhòu, wǒ **néng** hē shuǐ, yě **néng** wèn wèntí. | During class, I **can** drink water, and I **can** ask questions.                         |
+| **1. Two things not allowed**<br><br>  <br><br>_(Using 不能)_             | 但是，我**不能**用手机，也**不能**睡觉。             | Dànshì, wǒ **bùnéng** yòng shǒujī, yě **bùnéng** shuìjiào.     | However, I **cannot** use my phone, and I **cannot** sleep.                               |
+| **2. What you can do**<br><br>  <br><br>_(Using Verb + 得)_              | 现在在中文课，老师说话，我**听得懂**。                | Xiànzài zài zhōngwén kè, lǎoshī shuōhuà, wǒ **tīng de dǒng**.  | Right now in Chinese class, when the teacher speaks, I **can understand (by listening)**. |
+| **2. What you cannot do**<br><br>  <br><br>_(Using Verb + 不)_           | 可是，很多生词我**看不懂**。                     | Kěshì, hěnduō shēngcí wǒ **kàn bù dǒng**.                      | But, there are many new words I **cannot understand (by reading)**.                       |
+| **3. One thing you do well**<br><br>  <br><br>_(Using Verb + 得)_        | 我觉得我的发音很好，我中文**说得很好**。               | Wǒ juéde wǒ de fāyīn hěn hǎo, wǒ zhōngwén **shuō de hěn hǎo**. | I think my pronunciation is good, I **can speak** Chinese **well**.                       |
+| **3. One thing you cannot do well**<br><br>  <br><br>_(Using Verb + 不)_ | 但是，汉字太难了，我**写得不好**。                  | Dànshì, hànzì tài nán le, wǒ **xiě de bù hǎo**.                | But, Chinese characters are too hard, I **cannot write (them) well**.                     |
+
+| **Pinyin**                                                                                         | **English Translation**                                                                    |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Wǒ **néng** zài túshūguǎn xuéxí, yě **néng** zài zhōumò gēn péngyǒu chūqù.                         | I **can** study in the library, and I **can** also go out with friends on weekends.        |
+| Dànshì, wǒ **bùnéng** zài jiàoshì lǐ chīfàn, yě **bùnéng** zài shēnyè dàshēng shuōhuà.             | But, I **cannot** eat in the classroom, and I **cannot** talk loudly late at night.        |
+| Lǎoshī shuōhuà shuō de hěn màn, suǒyǐ wǒ **tīng de dǒng**. Wǒ yě **kàn de dǒng** jiǎndān de hànzì. | The teacher speaks slowly, so I **can understand**. I also **can read** simple characters. |
+| Dànshì, rúguǒ hànzì tài nán le, wǒ jiù **kàn bù dǒng**.                                            | But, if the characters are too difficult, I **cannot understand** them.                    |
+| Wǒ juéde wǒ tī zúqiú tī **de hěn hǎo**.                                                            | I think I play soccer **very well**.                                                       |
+| Suīrán wǒ xuéle hěnjiǔ, dànshì wǒ háishì tiàowǔ tiào **bù hǎo**.                                   | Although I've studied for a long time, I still **cannot dance well**.                      |
+| Zhè jiùshì wǒ de huìbào, xièxiè dàjiā!                                                             | This is my report, thank you everyone!                                                     |
